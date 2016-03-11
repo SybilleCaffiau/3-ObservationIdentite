@@ -1,0 +1,9 @@
+wificampus-029122:Traitement sybillecaffiau$ sh identite.sh 
+Début du processus de détection de l'identité (étape 3)
+fichier de traces propres ou scenario (.fst) ? 
+Scenario.fst
+fichier de modele de tâches (résultat de l'étape 1) (.fst) ? 
+automatePlat.fst
+Il y a des erreurs de coherence, passez à l'étape 4 pour une analyse plus profonde
+Fin du processus de detection de l'identité
+wificampus-029122:Traitement sybillecaffiau$ 
